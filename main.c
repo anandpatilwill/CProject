@@ -1,7 +1,7 @@
 main() {
-	big3();	
+	big();	
 	fact();
-	rev();
+	reverse();
 
 
 }

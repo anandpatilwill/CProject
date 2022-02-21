@@ -2,7 +2,7 @@
 
 
 
-void biggest3() {
+void big() {
 
   double n1, n2, n3;
 
